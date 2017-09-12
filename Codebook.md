@@ -35,3 +35,7 @@ In the dataset follwoing names have been changed.
 *     "f"         was replaed with        "Frequency"
 *     "BodyBody"  was replaed with        "Body"
 *     "Gyro"      was replaed with        "Gyroscope"
+
+
+### output 
+out put of the code is Tidydata.txt
