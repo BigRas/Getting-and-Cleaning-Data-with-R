@@ -13,11 +13,11 @@ The process of merging datasets is listed below:
 
 ### Descriptive Names
 In the dataset follwoing names have been changed.
-"std"       was replaed with        "SD",
-"mean"      was replaed with        "MEAN"
-"^t"        was replaed with        "Time"
-"Acc"       was replaed with        "Accelerometer"
-"Mag"       was replaed with        "Magnititude"
-"f"         was replaed with        "Frequency"
-"BodyBody"  was replaed with        "Body"
-"Gyro"      was replaed with        "Gyroscope"
+*     "std"       was replaed with        "SD",
+*     "mean"      was replaed with        "MEAN"
+*     "^t"        was replaed with        "Time"
+*     "Acc"       was replaed with        "Accelerometer"
+*     "Mag"       was replaed with        "Magnititude"
+*     "f"         was replaed with        "Frequency"
+*     "BodyBody"  was replaed with        "Body"
+*     "Gyro"      was replaed with        "Gyroscope"
