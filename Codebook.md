@@ -2,7 +2,7 @@
 
 ### Files in Dataset
 1.    activity_labels.txt
-2.     features.txt
+2.    features.txt
 3.    features_info.txt
 4.    README.txt
 5.    Test 
