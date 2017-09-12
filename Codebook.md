@@ -1,8 +1,22 @@
 ## Code Book
 
+### Files in Dataset
+1.    activity_labels.txt
+2.     features.txt
+3.    features_info.txt
+4.    README.txt
+5.    Test 
+      1. subject_test.txt
+      2. X_test.txt
+      3. Y_test.txt
+ 6.   train
+      1. subject_tarin.txt
+      2. X_train.txt
+      3. Y_train.txt
+
 ### Source of Data
 The below link is the source of data for the project.
-      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip!
       
 Dataset consists of two data sets called "test" and "train". And each one has "subject", "activity", and "features".
 To have one dataset, all the datasets were merged.
