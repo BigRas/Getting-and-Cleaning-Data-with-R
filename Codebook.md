@@ -15,7 +15,7 @@ The process of merging datasets is listed below:
 In the dataset follwoing names have been changed.
 *     "std"       was replaed with        "SD",
 *     "mean"      was replaed with        "MEAN"
-*     "^t"        was replaed with        "Time"
+*     "t"        was replaed with        "Time"
 *     "Acc"       was replaed with        "Accelerometer"
 *     "Mag"       was replaed with        "Magnititude"
 *     "f"         was replaed with        "Frequency"
