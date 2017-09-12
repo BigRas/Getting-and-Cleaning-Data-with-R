@@ -30,4 +30,8 @@ You should create one R script called run_analysis.R that does the following.
  
 At first stage, dataset was downloaded and unzipped. And then required sets were merged with each other. Subset the feature file to extract the needed measurements. And the set the names foe being more human friendly. Finally, write the modified dataset in Tidyset.text based on the mean of each valiables.
  
-
+### Output
+ Tidy.txt is the out put of the run_analysis.R. 
+ 
+### Code Book
+ This one explaines all the varibales, files and data which were used.
