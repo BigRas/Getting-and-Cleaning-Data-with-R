@@ -24,3 +24,10 @@ You should create one R script called run_analysis.R that does the following.
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names.
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+### Explanation of Analysis Files 
+ All the sprips is in run_analysis.R. 
+ 
+At first stage, dataset was downloaded and unzipped. And then required sets were merged with each other. Subset the feature file to extract the needed measurements. And the set the names foe being more human friendly. Finally, write the modified dataset in Tidyset.text based on the mean of each valiables.
+ 
+
